@@ -1,0 +1,15 @@
+"","Mimotopes","Protein_ID","Protein","Strain","Starting_pos"
+"1","AQTGIAV","YP_009724389.1","orf1ab","SARSCoV2",3518
+"2","TKGPHEF","YP_009724389.1","orf1ab","SARSCoV2",5198
+"3","TTLDSKT","YP_009724390.1 ","spike","SARSCoV2",108
+"4","HSYGIDL","NP_828849","replicase","SARS",134
+"5","TTYNGYL","NP_828849","replicase","SARS",1460
+"6","AQTGIAV","NP_828849","orf1ab","SARS",3495
+"7","TKGPHEF","NP_828849","orf1ab","SARS",5175
+"8","VKGDDVR","NP_828851","spike","SARS",389
+"9","TTSTALG","NP_828851","spike","SARS",922
+"10","QLSLSMA","NP_828859","hypothetical","SARS",52
+"11","GAGDAGH","NP_073549","replicase","229E",2483
+"12","QTSQALQ","NP_073551","spike","229E",818
+"13","ANSFRLF","NP_073555","M protein","229E",96
+"14","NGSWVLN","AAR01012","replicase","OC43",2987
